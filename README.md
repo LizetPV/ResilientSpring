@@ -34,4 +34,10 @@ Este proyecto no solo demostró la implementación técnica de un circuit breake
 
 A medida que avanzamos, la adopción de prácticas como estas contribuirá a la creación de aplicaciones más resilientes y confiables, garantizando una experiencia fluida para los usuarios finales.
 
-*Este proyecto fue desarrollado por [Yesenia Peche] - [linkedin.com/in/ypeche-proyectos] - [26/12/2023]*
+## **Contacto**
+
+Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes en contactarme:
+
+- **Correo Electrónico:** [lizet.peche@gmail.com](mailto:lizet.peche@gmail.com)
+- **LinkedIn:** [Yesenia Peche](https://linkedin.com/in/ypeche-proyectos)
+
